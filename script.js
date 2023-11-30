@@ -9,4 +9,4 @@ function volume_sphere() {
   document.getElementById("volume").value = volume.toFixed(2); // Round to 2 decimal places
 }
 
-window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
+window.onload = document.getElementById('MyForm').onsubmit

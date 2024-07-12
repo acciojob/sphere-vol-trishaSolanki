@@ -1,4 +1,4 @@
-]document.getElementById('MyForm').addEventListener('submit', function(event) {
+document.getElementById('MyForm').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent form from submitting
 
     // Retrieve the radius value from the input field
